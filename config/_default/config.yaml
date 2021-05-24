@@ -5,7 +5,7 @@
 
 title: 'Alexandra (Alex) Truong Hai Yen' # Website name
 baseurl: 'https://alextruong.netlify.app/' # Website URL
-copyright: '© {2021} Alex Truong' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Alex Truong. Powered by the Academic theme for Hugo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

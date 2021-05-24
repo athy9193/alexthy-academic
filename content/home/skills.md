@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
@@ -24,10 +28,19 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 50%
+  icon: aws
+  icon_pack: fab
+  name: AWS
+- description: 50%
+  icon: docker
+  icon_pack: fab
+  name: Docker
+- description: 100%
+  icon: chart-area
   icon_pack: fas
-  name: Photography
+  name: Plotly, Altair
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

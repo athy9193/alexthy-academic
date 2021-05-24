@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexandra Truong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Looking for opportunities in data science and real estate investment industry.
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: With 5-year experience in real estate investment and a master in Data Science at University of British Columbia, I am interested in applying data science technique to solve problems in real estate.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Machine Learning
+- Real estate investment & financial investment
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Data Science
+    institution: University of British Columbia (UBC)
+    year: 2020-2021
+  - course: Bachelor of Science - Real Estate
+    institution: National University of Singapore (NUS)
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +42,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/AlexTruong0901
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/athy9193
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/alextruong91/ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +58,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "alextruong0901@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I am Alexandra Truong (Alex). I am from Vietnam. After completing my undergraduate at National University of Singapore studying Real estate investment, I worked as a real estate investment manager at a major developer in Singapore for 5 years, which taught me extensively on how a real estate investment and fund management business work. During this time, I became highly appreciative of the role of good data and data analysis in investment and asset management. This motivated me to pursue the reputed and accelerated Master program in Data Science at University of British Columbia. I enjoy this intense and challenging coursework immensely as it focuses on real application. Therefore, I am much excited to embark on a new journey where I use my skill and experience in both data science and real estate to solve and work on meaningful problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
