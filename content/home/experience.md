@@ -44,7 +44,7 @@ experience:
     location: Singapore
     date_start: '2020-04-01'
     date_end: '2020-04-01'
-    description: Portfolio management & Underwriting | Logistics properties
+    description: Portfolio management & Underwriting for Logistics properties
 
 
 design:
