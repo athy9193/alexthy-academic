@@ -8,6 +8,6 @@ This is the Github repository to store material for Alex's website using Wowchem
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
 * [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-2-january-2021&#x2F;)
-* [Version 5.0 Beta 1 (December 2020)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-1-december-2020&#x2F;)<!--Updated at 1621884364897-->
+* [Version 5.0 Beta 1 (December 2020)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-1-december-2020&#x2F;)<!--Updated at 1621885453820-->
 
 <!--END_SECTION:news-->
