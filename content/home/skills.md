@@ -28,7 +28,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 50%
+- description: 70%
   icon: aws
   icon_pack: fab
   name: AWS
@@ -40,6 +40,18 @@ feature:
   icon: chart-area
   icon_pack: fas
   name: Plotly, Altair
+- description: 100%
+  icon: building
+  icon_pack: fas
+  name: Real estate investment
+- description: 100%
+  icon: briefcase
+  icon_pack: fas
+  name: Portfolio management
+- description: 80%
+  icon: chart-pie
+  icon_pack: fas
+  name: Tableau
 
 
 # Uncomment to use emoji icons.
