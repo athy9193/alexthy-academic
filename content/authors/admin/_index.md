@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: With 5-year experience in real estate investment and a master in Data Science at University of British Columbia, I am interested in applying data science technique to solve problems in real estate.
+bio: With 5-year experience in real estate investment and a Master in Data Science at the University of British Columbia, I am interested in applying data science techniques and real estate knowledge to solve meaningful problems.
 
 # Interests to show in About widget
 interests:
@@ -64,6 +64,6 @@ email: "alextruong0901@gmail.com"
 highlight_name: false
 ---
 
-Hi, I am Alexandra Truong (Alex). I am from Vietnam. After completing my undergraduate at National University of Singapore studying Real estate investment, I worked as a real estate investment manager at a major developer in Singapore for 5 years, which taught me extensively on how a real estate investment and fund management business work. During this time, I became highly appreciative of the role of good data and data analysis in investment and asset management. This motivated me to pursue the reputed and accelerated Master program in Data Science at University of British Columbia. I enjoy this intense and challenging coursework immensely as it focuses on real application. Therefore, I am much excited to embark on a new journey where I use my skill and experience in both data science and real estate to solve and work on meaningful problems.
+Hi, I am Alexandra Truong (Alex). I am from Vietnam. After completing my undergraduate at the National University of Singapore in Real estate investment, I worked as a real estate investment manager at a major developer in Singapore for five years, which extensively taught me how a real estate investment and fund management business works. During this time, I became highly appreciative of the role of good data and data analysis in investment and asset management. This motivated me to pursue the reputed and accelerated Master Program in Data Science at the University of British Columbia. I enjoy this intense and challenging coursework immensely as it focuses on real applications. Therefore, I am very much excited to use my skill and experience in both data science and real estate to solve meaningful practical problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
