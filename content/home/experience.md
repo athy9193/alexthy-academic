@@ -25,7 +25,7 @@ experience:
   - title: Investment & Asset Manager
     company: Mapletree Investments Pte Ltd
     company_url: 'https://www.mapletree.com.sg/'
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Singapore
     date_start: '2015-07-01'
     date_end: '2020-03-19'
@@ -40,7 +40,7 @@ experience:
   - title: Investment Associate
     company: Emergent Capital Partners Pte Ltd
     company_url: 'https://emergentpartners.com/'
-    company_logo: org-x
+    #company_logo: org-x
     location: Singapore
     date_start: '2020-04-01'
     date_end: '2020-04-01'
