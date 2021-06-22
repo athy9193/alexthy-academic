@@ -1,6 +1,6 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+<!-- <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p> -->
 
-This is the Github repository to store material for Alex's website using Wowchemy. The website would show case working experience, education qualification and profession interest.
+This is the Github repository to store material for Alex's website using Wowchemy. The website would showcase working experience, education qualification and profession interest.
 
 ## Wowchemy's latest news
 <!--START_SECTION:news-->

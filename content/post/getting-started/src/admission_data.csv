@@ -1,0 +1,9 @@
+gender,admit,count,dept
+Male,Admitted,800,A
+Male,Rejected,135,A
+Male,Admitted,42,B
+Male,Rejected,58,B
+Female,Admitted,602,A
+Female,Rejected,98,A
+Female,Admitted,154,B
+Female,Rejected,146,B
